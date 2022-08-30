@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Hdj
     url: https://hdj.me
-  - name: 591
+  - name: TW591
     url: https://www.591.com.tw
 
 status-website:
