@@ -4,7 +4,7 @@
     "url": "https://hdj.me",
     "icon": "https://favicons.githubusercontent.com/hdj.me",
     "slug": "hdj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 128,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "TW591",
