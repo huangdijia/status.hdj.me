@@ -2,7 +2,7 @@
   {
     "name": "Hdj",
     "url": "https://hdj.me",
-    "icon": "https://favicons.githubusercontent.com/hdj.me",
+    "icon": "https://icons.duckduckgo.com/ip3/hdj.me.ico",
     "slug": "hdj",
     "status": "up",
     "uptime": "99.97%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 169,
-    "timeDay": 115,
-    "timeWeek": 197,
-    "timeMonth": 168,
-    "timeYear": 169,
+    "time": 168,
+    "timeDay": 111,
+    "timeWeek": 174,
+    "timeMonth": 167,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-09-15": 16
     }
@@ -22,7 +22,7 @@
   {
     "name": "TW591",
     "url": "https://www.591.com.tw",
-    "icon": "https://favicons.githubusercontent.com/www.591.com.tw",
+    "icon": "https://icons.duckduckgo.com/ip3/www.591.com.tw.ico",
     "slug": "tw-591",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1915,
-    "timeDay": 1921,
-    "timeWeek": 1913,
-    "timeMonth": 1924,
-    "timeYear": 1915,
+    "time": 1925,
+    "timeDay": 2277,
+    "timeWeek": 1930,
+    "timeMonth": 1950,
+    "timeYear": 1925,
     "dailyMinutesDown": {}
   }
 ]
