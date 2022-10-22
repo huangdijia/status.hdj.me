@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 177,
-    "timeDay": 207,
-    "timeWeek": 201,
-    "timeMonth": 190,
-    "timeYear": 177,
+    "time": 176,
+    "timeDay": 105,
+    "timeWeek": 193,
+    "timeMonth": 188,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2022-09-15": 16
     }
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.591.com.tw.ico",
     "slug": "tw-591",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1940,
-    "timeDay": 1790,
-    "timeWeek": 1899,
-    "timeMonth": 2001,
-    "timeYear": 1940,
-    "dailyMinutesDown": {
-      "2022-10-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1945,
+    "timeDay": 1943,
+    "timeWeek": 1890,
+    "timeMonth": 1985,
+    "timeYear": 1945,
+    "dailyMinutesDown": {}
   }
 ]
