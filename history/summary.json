@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 156,
-    "timeWeek": 217,
-    "timeMonth": 181,
-    "timeYear": 187,
+    "time": 188,
+    "timeDay": 219,
+    "timeWeek": 216,
+    "timeMonth": 183,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-09-15": 16
     }
@@ -26,17 +26,16 @@
     "slug": "tw-591",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1997,
-    "timeDay": 1478,
-    "timeWeek": 3134,
-    "timeMonth": 2320,
-    "timeYear": 1997,
+    "time": 1993,
+    "timeDay": 1536,
+    "timeWeek": 3087,
+    "timeMonth": 2298,
+    "timeYear": 1993,
     "dailyMinutesDown": {
-      "2023-01-15": 5,
       "2023-01-12": 19
     }
   }
