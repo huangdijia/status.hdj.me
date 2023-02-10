@@ -24,18 +24,19 @@
     "url": "https://www.591.com.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.591.com.tw.ico",
     "slug": "tw-591",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1956,
-    "timeDay": 5661,
-    "timeWeek": 2188,
-    "timeMonth": 2134,
-    "timeYear": 1956,
+    "time": 1950,
+    "timeDay": 3334,
+    "timeWeek": 2040,
+    "timeMonth": 2104,
+    "timeYear": 1950,
     "dailyMinutesDown": {
+      "2023-02-10": 0,
       "2023-01-12": 19
     }
   }
