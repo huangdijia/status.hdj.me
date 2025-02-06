@@ -3,10 +3,12 @@ owner: huangdijia # Your GitHub organization or username, where this repository 
 repo: status.hdj.me # The name of this repository
 
 sites:
-  - name: Hdj
+  - name: HDJ
     url: https://hdj.me
   - name: TW591
     url: https://www.591.com.tw
+  - name: Hyperf Fans
+    url: https://hyperf.fans
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
